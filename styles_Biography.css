@@ -1,0 +1,220 @@
+body{
+  margin: 0;
+  font-family: Arial, Helvetica, freesans, sans-serif;
+  background-color: red;
+    padding-bottom: 100px;
+}
+
+.fixed-width{
+  width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 150px;
+}
+
+.top-bar{
+  background-color: white;
+  height: 60px;
+  width: 100%;
+  color: black;
+  background-color: red;
+
+}
+
+.top-bar ul{
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar ul li{
+  float: left;
+  list-style: none;
+  border-right: 1px solid #B4B4B4;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 10px 20px 30px 20px;
+}
+
+.news-bar{
+  background-color: #BB1919;
+  height: 60px;
+  width: 100%;
+  color: white;
+  float: left ;
+  
+  
+}
+
+.news-bar p {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5em;
+  font-family: Arial ;
+  position: relative;
+  right: 2px;
+  
+}
+
+.category-bar{
+  background-color: #A91717;
+  height: 30px;
+  width: 100%;
+  color: white;
+  float:left;
+  
+}
+
+.category-bar ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  
+}
+
+.category-bar ul li{ 
+  float:left;
+  font-family: Arial;
+  font-size: 0.9em;
+  position: relative;
+  right: 10px;
+  top: 2px;
+  border-right: 1px solid #BB4545;
+  padding: 3px 10px 9px 10px;
+}
+
+#PORTFOLIO{
+  font-family: Arial Black;
+  text-decoration: none;
+  color:white;
+}
+ 
+#VIDEO{
+  font-family: Arial Black;
+  text-decoration: none;
+  color:white;
+  
+}
+
+#BIOGRAPHY{
+  font-family: Arial Black;
+  text-decoration: none;
+  color:white;
+  
+}
+
+#CONTACT{
+  font-family: Arial Black;
+  text-decoration: none;
+  color:white;
+  
+}
+
+
+.content{
+  background-color: white;
+  width: 100%;
+  color: #000000;
+  
+}
+
+#logo{
+  float: left;
+  padding-top: 6px;
+  padding-right: 10px;
+  padding-bottom: 1px;
+  border-right: 1px solid #B4B4B4;
+  
+}
+
+#sing-in{
+  float: left;
+  padding-top: 10px;
+  padding-right: 80px;
+  padding-bottom: 1px;
+  border-right: 1px solid #B4B4B4;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 10px 20px 20px 20px;
+
+}
+
+#search-box{
+  width: 30px;
+  float: left;
+  padding: 5px;
+
+}
+
+#search-box input {
+  height: 20px; 
+  padding-bottom: 5px; 
+  
+  ( /* )background-image: url(https://savvaslazourasart.com/wp-content/uploads/2023/03/logo_2.jpg);
+  background-repeat: no-repeat;
+  background-position: right center; ( */ )
+  
+}
+
+#bold{
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.content h1{
+  color: #1167A8;
+}
+
+
+.content img{
+  float:right;
+  position: relative;
+  right: 400px;
+}
+
+.content p{
+  width: 900px;
+  font-family: Arial Black;
+}
+
+#content-links {
+  margin-top: 60px;
+  line-height: 1.5em;
+  width: 250px;
+
+}
+
+content a{
+  text-decoration: none;
+}
+
+.Watch-Listen{
+  float: right;
+  position: relative;
+  bottom: 700px;
+  right: 300px;
+  border-left: 1px solid #B4B4B4;
+  padding: 25px 0px 10px 25px;
+  margin: 0;
+}
+
+.Watch-Listen h2{
+  font-family: Arial;
+  font-weight: 100;
+  margin: 0px 10px 10px 0px;
+  padding: 0;
+}
+
+.Watch-Listen a{
+  position: relative;
+  font-family: Arial Black;
+}
+
+#Bottom-Photo{
+  padding-top: 20px;
+  padding-right: 490px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  position: relative;
+
+  
+}
+
