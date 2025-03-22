@@ -86,11 +86,6 @@ body{
   color:white;
 }
 
-#sing-in_style{
-  font-family: Arial Black;
-  text-decoration: none;
-  color:white;
-}
 
 #sing-in_style{
   font-family: Arial Black;
@@ -189,18 +184,20 @@ body{
   margin-top: 60px;
   line-height: 1.5em;
   width: 250px;
+  font-size: 14px;
+  text-decoration: none;
 
 }
 
-content a{
+.content a{
   text-decoration: none;
 }
 
 .Watch-Listen{
   float: right;
   position: relative;
-  bottom: 700px;
-  right: 300px;
+  bottom: 560px;
+  right: 200px;
   border-left: 1px solid #B4B4B4;
   padding: 25px 0px 10px 25px;
   margin: 0;
