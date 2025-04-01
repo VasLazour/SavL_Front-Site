@@ -85,12 +85,6 @@ body{
   text-decoration: none;
   color:white;
 }
-
-#sing-in_style{
-  font-family: Arial Black;
-  text-decoration: none;
-  color:white;
-}
  
 #VIDEO{
   font-family: Arial Black;
@@ -238,7 +232,7 @@ content a{
 
 .contact-left-title h2{
   font-weight: 600;
-  color: #a363aa;
+  color: #1167A8;
   font-size: 40px;
   margin-bottom: 5px;
 }
@@ -248,7 +242,7 @@ content a{
   border: none;
   width: 120px;
   height: 5px;
-  background-color: #a363aa;
+  background-color: #1167A8;
   border-radius: 10px;
   margin-bottom: 20px;
   
@@ -288,7 +282,7 @@ content a{
   gap: 10px;
   border: none;
   border-radius: 50px;
-  background: linear-gradient(270deg,#ff994f,#fa6d86);
+  background: linear-gradient(270deg,#ff994f,#1167A8);
   cursor: pointer;
   
 }
